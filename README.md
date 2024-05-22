@@ -1,7 +1,3 @@
-# Gamelet
+# JavaScript All-In-One For Drummies
 
-A starter program for writing javaScript games.
-
-## Usage
-
-1. '''JavaScript'''
+I'm learning JavaScript, React, Vue, Svelte, and Node from JavaScript All-In-One for Dummies by Chris Minnick
